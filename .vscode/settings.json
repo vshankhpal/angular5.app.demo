@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ab1714cf-14c2-419b-bbfd-d18c44607c10/resourceGroups/RG-PowerApps/providers/Microsoft.Web/sites/logicappdemosite",
+    "appService.deploySubpath": "dist"
+}
